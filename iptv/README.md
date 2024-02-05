@@ -4,6 +4,7 @@
 
 ## 软件
 
+https://ghproxy.net/https://raw.githubusercontent.com/qianfanguojin/tvlist/main/iptv/DIYP-0606-taibiao.apk
 
 ## 直播源
 
