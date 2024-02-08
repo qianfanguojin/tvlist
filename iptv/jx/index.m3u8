@@ -159,22 +159,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/炫动卡通.png" group-title="少儿频道",炫动卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
-#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="https://live.fanmingming.com/tv/豆瓣高分.png" group-title="斗鱼轮播电影",豆瓣高分
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-name="冰冰经典电影" tvg-logo="https://live.fanmingming.com/tv/冰冰经典电影.png" group-title="斗鱼轮播电影",冰冰经典电影
-http://epg.112114.xyz/douyu/74374
-#EXTINF:-1 tvg-name="华语电影" tvg-logo="https://live.fanmingming.com/tv/华语电影.png" group-title="斗鱼轮播电影",华语电影
-http://epg.112114.xyz/douyu/3928
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="斗鱼轮播电影",经典电影
-http://epg.112114.xyz/douyu/434971
-#EXTINF:-1 tvg-name="女神金电影" tvg-logo="https://live.fanmingming.com/tv/女神金电影.png" group-title="斗鱼轮播电影",女神金电影
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-name="恐怖经典" tvg-logo="https://live.fanmingming.com/tv/恐怖经典.png" group-title="斗鱼轮播电影",恐怖经典
-http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1 tvg-name="变种人电影" tvg-logo="https://live.fanmingming.com/tv/变种人电影.png" group-title="斗鱼轮播电影",变种人电影
-http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="https://live.fanmingming.com/tv/吃米滴虫.png" group-title="斗鱼轮播电影",吃米滴虫
-http://diyp.112114.xyz/douyu/315457
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/超级体育.png" group-title="超级TV",超级体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="超级TV",超级电影
