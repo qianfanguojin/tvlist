@@ -11,6 +11,7 @@
 
 ## 接口
 
+https://www.lige.fit/tvbox
 ### 传统
 1. 饭太硬: http://饭太硬.top/tv
 2. 肥猫: http://肥猫.live
