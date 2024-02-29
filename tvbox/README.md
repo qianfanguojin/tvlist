@@ -18,3 +18,4 @@ https://www.lige.fit/tvbox
 
 ### 多仓
 1. 小盒子: http://xhztv.top/tvbox.txt
+2. [warehouse](https://github.com/PizazzGY/TVBox_warehouse): https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
