@@ -15,6 +15,7 @@ https://www.lige.fit/tvbox
 ### 传统
 1. 饭太硬: http://饭太硬.top/tv
 2. 肥猫: http://肥猫.live
+3. 摸鱼: http://我不是.摸鱼儿.top
 
 ### 多仓
 1. 小盒子: http://xhztv.top/tvbox.txt
